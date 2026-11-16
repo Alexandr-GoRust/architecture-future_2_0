@@ -1,0 +1,4 @@
+# Скопируйте в terraform.tfvars (он в .gitignore) или задайте переменные в CI
+yc_cloud_id  = "b1gXXXXXXXX"
+yc_folder_id = "b1gYYYYYYYY"
+subnet_id    = "e9b1XXXXXXXX"

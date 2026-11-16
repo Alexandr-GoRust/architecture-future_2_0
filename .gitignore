@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+terraform.tfvars
+.terraform.lock.hcl
+
+# Генераторы и мусор
+.sources/
+__pycache__/
+*.pyc
+.DS_Store
